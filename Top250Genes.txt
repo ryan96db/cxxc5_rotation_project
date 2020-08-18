@@ -1,0 +1,251 @@
+ID	adj.P.Val	P.Value	t	B	logFC	Gene.symbol	Gene.title
+210125_s_at	8.20E-83	1.50E-87	49.7	187.8	3.126	BANF1	barrier to autointegration factor 1
+210023_s_at	9.04E-73	3.31E-77	41	164.9	2.712	PCGF1	polycomb group ring finger 1
+225294_s_at	2.56E-72	1.78E-76	40.5	163.3	2.988	TRAPPC1	trafficking protein particle complex 1
+200041_s_at	2.56E-72	1.87E-76	40.4	163.2	2.154	ATP6V1G2-DDX39B///SNORD84///DDX39B	"ATP6V1G2-DDX39B readthrough (NMD candidate)///small nucleolar RNA, C/D box 84///DEAD-box helicase 39B"
+240601_at	1.05E-70	9.62E-75	-39.2	159.4	-3.206		
+231875_at	3.72E-66	4.08E-70	-35.9	149	-3.345	KIF21A	kinesin family member 21A
+242772_x_at	8.24E-66	1.05E-69	-35.6	148.1	-2.795		
+221006_s_at	7.59E-65	1.23E-68	34.9	145.7	2.764	SNX27	sorting nexin family member 27
+229982_at	7.59E-65	1.25E-68	34.9	145.7	3.595	QSER1	glutamine and serine rich 1
+228582_x_at	3.91E-62	7.16E-66	33.1	139.4	3.531	MALAT1	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)
+237001_at	3.61E-61	7.27E-65	-32.4	137.2	-2.788		
+242428_at	9.77E-61	2.14E-64	-32.1	136.1	-2.907		
+213956_at	1.14E-60	2.70E-64	32	135.9	2.371	CEP350	centrosomal protein 350
+212291_at	1.71E-60	4.39E-64	31.9	135.4	2.732	HIPK1	homeodomain interacting protein kinase 1
+227510_x_at	1.89E-59	5.17E-63	31.3	133	3.895	MALAT1	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)
+208611_s_at	9.81E-59	2.87E-62	30.8	131.3	3.126	SPTAN1	"spectrin alpha, non-erythrocytic 1"
+200707_at	8.14E-58	2.53E-61	30.2	129.1	3.288	PRKCSH	protein kinase C substrate 80K-H
+215378_at	9.76E-58	3.21E-61	-30.2	128.9	-1.63		
+227404_s_at	9.78E-57	3.40E-60	29.6	126.6	5.902	EGR1	early growth response 1
+208973_at	9.95E-57	3.64E-60	29.5	126.5	2.224	ERI3	ERI1 exoribonuclease family member 3
+208297_s_at	1.10E-56	4.21E-60	-29.5	126.4	-2.013	EVI5	ecotropic viral integration site 5
+239238_at	3.09E-56	1.24E-59	29.2	125.3	2.553		
+1555730_a_at	1.99E-55	8.39E-59	28.7	123.4	2.067	CFL1	cofilin 1
+221830_at	1.10E-54	4.81E-58	28.3	121.7	2.899	RAP2A	"RAP2A, member of RAS oncogene family"
+1563173_at	3.30E-54	1.51E-57	-28	120.6	-2.377		
+200613_at	3.95E-54	1.88E-57	28	120.4	1.92	AP2M1	adaptor related protein complex 2 mu 1 subunit
+206491_s_at	7.69E-54	3.80E-57	27.8	119.7	1.879	NAPA	NSF attachment protein alpha
+202987_at	4.97E-53	2.55E-56	-27.3	117.8	-1.984	TRAF3IP2	TRAF3 interacting protein 2
+218748_s_at	6.86E-53	3.64E-56	27.2	117.4	2.788	EXOC5	exocyst complex component 5
+243858_at	1.01E-52	5.55E-56	-27.1	117	-3.279		
+200709_at	1.73E-52	9.82E-56	27	116.4	2.053	LOC101929368///FKBP1A	uncharacterized LOC101929368///FK506 binding protein 1A
+201251_at	2.63E-52	1.54E-55	26.9	116	3.833	PKM	"pyruvate kinase, muscle"
+240390_at	3.35E-52	2.02E-55	-26.8	115.7	-3.057	GALNT5	polypeptide N-acetylgalactosaminyltransferase 5
+1559054_a_at	3.85E-52	2.40E-55	-26.8	115.6	-2.186		
+204506_at	9.82E-52	6.28E-55	-26.6	114.6	-1.91	PPP3R1	"protein phosphatase 3 regulatory subunit B, alpha"
+217878_s_at	2.57E-51	1.69E-54	-26.3	113.6	-2.057	CDC27	cell division cycle 27
+218841_at	2.57E-51	1.74E-54	-26.3	113.6	-1.75	ASB8	ankyrin repeat and SOCS box containing 8
+229905_at	8.17E-51	5.68E-54	26	112.4	2.547	RAP1GDS1	Rap1 GTPase-GDP dissociation stimulator 1
+215252_at	1.62E-50	1.16E-53	25.9	111.7	2.759	DNAJC7	DnaJ heat shock protein family (Hsp40) member C7
+235577_at	5.25E-50	3.92E-53	25.6	110.5	2.237	ZNF652	zinc finger protein 652
+1556743_at	5.25E-50	3.94E-53	-25.6	110.5	-1.756	ZNF654	zinc finger protein 654
+216915_s_at	6.78E-50	5.20E-53	25.5	110.2	3.04	PTPN12	"protein tyrosine phosphatase, non-receptor type 12"
+234989_at	9.15E-50	7.20E-53	25.4	109.9	2.911	MIR612///NEAT1	microRNA 612///nuclear paraspeckle assembly transcript 1 (non-protein coding)
+1554574_a_at	9.63E-50	7.75E-53	25.4	109.9	2.644	CYB5R3	cytochrome b5 reductase 3
+210649_s_at	1.74E-49	1.43E-52	25.3	109.2	2.49	ARID1A	AT-rich interaction domain 1A
+242835_s_at	1.85E-49	1.56E-52	-25.3	109.2	-1.892	LOC728730	uncharacterized LOC728730
+1553718_at	2.06E-49	1.77E-52	25.2	109	1.526	ZNF548	zinc finger protein 548
+229457_at	5.03E-49	4.42E-52	-25	108.1	-2.07	ANKHD1	ankyrin repeat and KH domain containing 1
+235412_at	5.53E-49	4.96E-52	25	108	3.428	ARHGEF7	Rho guanine nucleotide exchange factor 7
+1554530_at	1.22E-48	1.11E-51	-24.8	107.2	-1.995	VSTM2A	V-set and transmembrane domain containing 2A
+213048_s_at	1.54E-48	1.44E-51	24.8	107	2.747	SET	SET nuclear proto-oncogene
+233876_at	2.34E-48	2.23E-51	-24.7	106.5	-2.587		
+234780_at	2.62E-48	2.54E-51	-24.6	106.4	-4.632		
+230117_at	4.46E-48	4.40E-51	-24.5	105.9	-2.244	VSTM2A	V-set and transmembrane domain containing 2A
+224863_at	5.44E-48	5.48E-51	-24.5	105.6	-2.258	GNAQ	G protein subunit alpha q
+201367_s_at	9.56E-48	9.80E-51	24.3	105.1	3.072	ZFP36L2	ZFP36 ring finger protein like 2
+1569003_at	1.20E-47	1.26E-50	24.3	104.8	3.288	VMP1	vacuole membrane protein 1
+242665_at	4.19E-47	4.45E-50	24	103.6	2.947	FMNL2	formin like 2
+238320_at	4.98E-47	5.37E-50	23.9	103.4	4.893	MIR612///NEAT1	microRNA 612///nuclear paraspeckle assembly transcript 1 (non-protein coding)
+208751_at	7.12E-47	7.81E-50	23.9	103	1.779	NAPA	NSF attachment protein alpha
+215743_at	7.42E-47	8.28E-50	-23.9	102.9	-2.421	NMT2	N-myristoyltransferase 2
+200649_at	9.78E-47	1.11E-49	23.8	102.7	2.023	NUCB1	nucleobindin 1
+1554747_a_at	1.51E-46	1.74E-49	23.7	102.2	2.289	2-Sep	septin 2
+1552516_a_at	1.87E-46	2.19E-49	23.6	102	2.511	HIPK1	homeodomain interacting protein kinase 1
+237194_at	3.19E-46	3.79E-49	-23.5	101.4	-2.505		
+201378_s_at	3.62E-46	4.37E-49	23.5	101.3	1.997	UBAP2L	ubiquitin associated protein 2 like
+225827_at	3.75E-46	4.59E-49	23.5	101.2	2.163	AGO2	"argonaute 2, RISC catalytic component"
+1561146_at	4.36E-46	5.43E-49	-23.4	101.1	-1.347	VPS35	VPS35 retromer complex component
+209852_x_at	4.53E-46	5.72E-49	23.4	101	2.09	PSME3	proteasome activator subunit 3
+1556927_at	7.31E-46	9.36E-49	-23.3	100.5	-1.778	KCNK10	potassium two pore domain channel subfamily K member 10
+232330_at	1.77E-45	2.30E-48	-23.1	99.6	-2.264	COA1	cytochrome c oxidase assembly factor 1 homolog
+238611_at	2.18E-45	2.88E-48	23.1	99.4	2.513		
+209675_s_at	2.74E-45	3.66E-48	23	99.2	1.655	HNRNPUL1	heterogeneous nuclear ribonucleoprotein U like 1
+239650_at	6.08E-45	8.22E-48	-22.8	98.4	-2.129	NCKAP5	NCK associated protein 5
+215409_at	6.32E-45	8.67E-48	-22.8	98.3	-2.379	LPCAT4	lysophosphatidylcholine acyltransferase 4
+1558733_at	1.31E-44	1.82E-47	22.7	97.6	2.268	ZBTB38	zinc finger and BTB domain containing 38
+1567628_at	2.02E-44	2.84E-47	22.6	97.2	3.781	CD74	CD74 molecule
+218075_at	4.42E-44	6.31E-47	22.4	96.4	1.116	AAAS	aladin WD repeat nucleoporin
+1559038_at	5.14E-44	7.43E-47	22.4	96.2	1.879	2-Sep	septin 2
+230566_at	1.23E-43	1.81E-46	22.2	95.3	1.568	MORC2-AS1	MORC2 antisense RNA 1
+207622_s_at	1.68E-43	2.50E-46	22.1	95	1.769	ABCF2	ATP binding cassette subfamily F member 2
+230200_at	2.31E-43	3.47E-46	-22.1	94.7	-1.994	NSUN6	NOP2/Sun RNA methyltransferase family member 6
+1558747_at	2.33E-43	3.54E-46	22	94.7	2.845	SMCHD1	structural maintenance of chromosomes flexible hinge domain containing 1
+223585_x_at	2.68E-43	4.12E-46	22	94.5	1.924	KBTBD2	kelch repeat and BTB domain containing 2
+214007_s_at	2.90E-43	4.51E-46	22	94.4	2.705	TWF1	twinfilin actin binding protein 1
+237632_at	3.24E-43	5.09E-46	-22	94.3	-1.488		
+225465_at	4.29E-43	6.82E-46	-21.9	94	-2.17	MAGI1	"membrane associated guanylate kinase, WW and PDZ domain containing 1"
+215658_at	5.54E-43	8.92E-46	-21.9	93.7	-2.516	LINC00675	long intergenic non-protein coding RNA 675
+217951_s_at	5.88E-43	9.57E-46	-21.8	93.7	-1.748	PHF3	PHD finger protein 3
+211136_s_at	6.01E-43	9.90E-46	21.8	93.6	1.924	CLPTM1	"CLPTM1, transmembrane protein"
+1563321_s_at	6.18E-43	1.03E-45	21.8	93.6	2.217	MLLT10	"myeloid/lymphoid or mixed-lineage leukemia; translocated to, 10"
+1559360_at	6.41E-43	1.08E-45	-21.8	93.5	-3.065		
+240108_at	6.60E-43	1.12E-45	-21.8	93.5	-1.992		
+206917_at	7.69E-43	1.33E-45	21.8	93.3	2.403	GNA13	G protein subunit alpha 13
+229606_at	7.69E-43	1.34E-45	21.8	93.3	2.006		
+227338_at	7.87E-43	1.38E-45	21.8	93.3	1.669		
+1562673_at	9.58E-43	1.70E-45	-21.7	93.1	-2.069		
+227969_at	1.04E-42	1.87E-45	-21.7	93	-2.762	PCBP1-AS1	PCBP1 antisense RNA 1
+230898_at	1.09E-42	1.98E-45	-21.7	92.9	-1.607		
+215050_x_at	1.09E-42	2.00E-45	21.7	92.9	1.221	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2
+216595_at	1.14E-42	2.11E-45	-21.7	92.9	-1.227	FAM186A	family with sequence similarity 186 member A
+238610_s_at	1.18E-42	2.20E-45	21.7	92.8	2.778		
+1559053_at	1.66E-42	3.13E-45	-21.6	92.5	-0.823		
+229916_at	1.90E-42	3.62E-45	-21.6	92.3	-1.509	ENPP6	ectonucleotide pyrophosphatase/phosphodiesterase 6
+244594_x_at	2.08E-42	3.99E-45	-21.5	92.2	-1.086		
+1559397_s_at	2.95E-42	5.71E-45	21.5	91.9	1.787	PRR14	proline rich 14
+202734_at	2.97E-42	5.81E-45	21.5	91.9	2.042	TRIP10	thyroid hormone receptor interactor 10
+200787_s_at	3.28E-42	6.48E-45	21.4	91.8	2.531	PEA15	phosphoprotein enriched in astrocytes 15
+236431_at	3.38E-42	6.74E-45	-21.4	91.7	-1.771	U2SURP	U2 snRNP associated SURP domain containing
+237239_at	3.44E-42	6.92E-45	21.4	91.7	2.019		
+232483_at	4.10E-42	8.32E-45	-21.4	91.5	-1.742	MED17	mediator complex subunit 17
+233768_at	4.73E-42	9.68E-45	-21.4	91.4	-1.793		
+236375_at	5.72E-42	1.18E-44	-21.3	91.2	-2.29		
+203294_s_at	5.98E-42	1.25E-44	21.3	91.1	2.401	LMAN1	"lectin, mannose binding 1"
+203085_s_at	6.43E-42	1.35E-44	21.3	91	3.294	TGFB1	transforming growth factor beta 1
+239649_at	6.72E-42	1.43E-44	-21.3	91	-2.232		
+227621_at	6.85E-42	1.47E-44	21.3	91	2.18	WTAP	Wilms tumor 1 associated protein
+1558306_at	6.98E-42	1.51E-44	21.3	90.9	1.48	THADA	"THADA, armadillo repeat containing"
+1559276_at	9.59E-42	2.09E-44	-21.2	90.6	-2.456	PCAT18	prostate cancer associated transcript 18 (non-protein coding)
+240230_s_at	1.23E-41	2.69E-44	-21.1	90.4	-1.46	AGAP9	"ArfGAP with GTPase domain, ankyrin repeat and PH domain 9"
+201020_at	1.42E-41	3.14E-44	-21.1	90.2	-1.783	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+240843_at	1.55E-41	3.46E-44	-21.1	90.1	-1.468		
+204055_s_at	1.76E-41	3.95E-44	-21.1	90	-2.523	CTAGE5	"CTAGE family member 5, ER export factor"
+226880_at	3.03E-41	6.87E-44	20.9	89.4	2.269	NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1
+1554241_at	3.91E-41	8.93E-44	20.9	89.2	2.26	COCH	cochlin
+227511_at	4.32E-41	9.95E-44	20.9	89.1	1.97	SAMD4B	sterile alpha motif domain containing 4B
+215231_at	4.52E-41	1.05E-43	-20.9	89	-1.478	PRKAG2	protein kinase AMP-activated non-catalytic subunit gamma 2
+1557275_a_at	6.16E-41	1.44E-43	-20.8	88.7	-2.556	TLCD2	TLC domain containing 2
+232264_at	6.41E-41	1.51E-43	20.8	88.6	2.088		
+204021_s_at	7.72E-41	1.84E-43	-20.7	88.4	-1.795	PURA	purine rich element binding protein A
+235057_at	1.01E-40	2.42E-43	-20.7	88.2	-2.392	ITCH	itchy E3 ubiquitin protein ligase
+1555817_s_at	1.01E-40	2.44E-43	-20.7	88.2	-1.183	THSD4	thrombospondin type 1 domain containing 4
+232030_at	1.51E-40	3.69E-43	-20.6	87.8	-1.828	EPG5	ectopic P-granules autophagy protein 5 homolog
+210317_s_at	2.06E-40	5.04E-43	20.5	87.4	2.841	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+242529_x_at	2.18E-40	5.37E-43	-20.5	87.4	-1.143		
+235841_at	2.50E-40	6.22E-43	-20.5	87.2	-1.579		
+221759_at	2.72E-40	6.81E-43	20.5	87.1	1.651	G6PC3	glucose-6-phosphatase catalytic subunit 3
+215910_s_at	2.85E-40	7.20E-43	20.5	87.1	2	FNDC3A	fibronectin type III domain containing 3A
+243692_at	3.19E-40	8.12E-43	-20.4	87	-2.218	GATA4	GATA binding protein 4
+200928_s_at	4.47E-40	1.14E-42	-20.4	86.6	-1.362	RAB14	"RAB14, member RAS oncogene family"
+212103_at	4.60E-40	1.19E-42	-20.4	86.6	-1.667	KPNA6	karyopherin subunit alpha 6
+205773_at	5.76E-40	1.50E-42	-20.3	86.4	-1.664	CPEB3	cytoplasmic polyadenylation element binding protein 3
+232529_at	6.30E-40	1.65E-42	-20.3	86.3	-2.533	SP3	Sp3 transcription factor
+243291_at	7.13E-40	1.88E-42	20.3	86.1	1.583		
+241853_at	7.41E-40	1.96E-42	-20.3	86.1	-1.578		
+1570445_a_at	8.44E-40	2.25E-42	-20.2	86	-2.498	LOC643201	centrosomal protein 192kDa pseudogene
+229273_at	8.66E-40	2.33E-42	-20.2	85.9	-2.273	SALL1	spalt like transcription factor 1
+1559954_s_at	9.07E-40	2.45E-42	20.2	85.9	2.262	DDX42	DEAD-box helicase 42
+243162_at	9.14E-40	2.49E-42	-20.2	85.9	-1.291		
+228670_at	1.05E-39	2.89E-42	-20.2	85.7	-1.761	TEP1	telomerase associated protein 1
+222336_at	1.76E-39	4.87E-42	-20.1	85.2	-1.9	SMIM14	small integral membrane protein 14
+213619_at	2.16E-39	6.02E-42	20	85	1.837	HNRNPH1	heterogeneous nuclear ribonucleoprotein H1 (H)
+205457_at	2.27E-39	6.36E-42	-20	84.9	-1.434	C6orf106	chromosome 6 open reading frame 106
+232351_at	2.60E-39	7.32E-42	-20	84.8	-1.389		
+1556122_at	2.64E-39	7.49E-42	-20	84.8	-1.341	RAB11B-AS1	RAB11B antisense RNA 1
+1559022_at	4.02E-39	1.15E-41	-19.9	84.3	-1.531	EFCAB14	EF-hand calcium binding domain 14
+236308_at	4.15E-39	1.19E-41	-19.9	84.3	-2.337	VSTM2A	V-set and transmembrane domain containing 2A
+225820_at	5.15E-39	1.49E-41	-19.9	84.1	-2.222	JADE1	jade family PHD finger 1
+230462_at	5.45E-39	1.59E-41	-19.8	84	-2.127	NUMB	"NUMB, endocytic adaptor protein"
+200778_s_at	7.77E-39	2.27E-41	19.8	83.7	1.54	2-Sep	septin 2
+230669_at	8.13E-39	2.39E-41	19.8	83.6	1.888	RASA2	RAS p21 protein activator 2
+200918_s_at	8.91E-39	2.64E-41	19.7	83.5	1.375	SRPRA	SRP receptor alpha subunit
+215219_at	9.58E-39	2.86E-41	-19.7	83.4	-1.557	DOPEY2	dopey family member 2
+228250_at	1.00E-38	3.01E-41	19.7	83.4	1.868	FNIP1	folliculin interacting protein 1
+233396_s_at	1.05E-38	3.17E-41	-19.7	83.3	-1.637	PET117///KAT14	PET117 homolog///lysine acetyltransferase 14
+1558515_at	1.23E-38	3.76E-41	19.7	83.2	1.886	FTX	"FTX transcript, XIST regulator (non-protein coding)"
+214196_s_at	1.23E-38	3.77E-41	19.7	83.2	1.618	TPP1	tripeptidyl peptidase 1
+201469_s_at	1.25E-38	3.83E-41	19.7	83.1	1.658	SHC1	SHC adaptor protein 1
+220388_at	1.38E-38	4.25E-41	-19.7	83	-1.233	FER1L4	"fer-1 like family member 4, pseudogene"
+209204_at	1.56E-38	4.86E-41	-19.6	82.9	-2.619	LMO4	LIM domain only 4
+240200_at	1.89E-38	5.91E-41	-19.6	82.7	-3.739	SULT1C2	sulfotransferase family 1C member 2
+200695_at	1.90E-38	5.96E-41	19.6	82.7	1.453	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha
+236778_at	3.37E-38	1.07E-40	19.5	82.1	2.87		
+203676_at	4.62E-38	1.47E-40	19.4	81.8	2.099	GNS	glucosamine (N-acetyl)-6-sulfatase
+209916_at	5.09E-38	1.63E-40	-19.4	81.7	-2.105	DHTKD1	dehydrogenase E1 and transketolase domain containing 1
+238706_at	5.75E-38	1.85E-40	19.4	81.6	2.393	PAPD4	"poly(A) RNA polymerase D4, non-canonical"
+202024_at	7.98E-38	2.58E-40	19.3	81.2	1.25	ASNA1	"arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)"
+202118_s_at	8.34E-38	2.72E-40	19.3	81.2	2.39	CPNE3	copine 3
+1557780_at	9.80E-38	3.21E-40	-19.3	81	-1.329		
+1570103_at	1.34E-37	4.40E-40	-19.2	80.7	-1.075		
+1552884_at	1.44E-37	4.76E-40	-19.2	80.6	-2.719	NKX6-3	NK6 homeobox 3
+222508_s_at	1.49E-37	4.98E-40	-19.2	80.6	-1.743	ARGLU1	arginine and glutamate rich 1
+1568598_at	1.49E-37	5.00E-40	-19.2	80.6	-2.485	KAZALD1	Kazal type serine peptidase inhibitor domain 1
+212016_s_at	1.53E-37	5.15E-40	19.2	80.6	1.671	MIR4745///PTBP1	microRNA 4745///polypyrimidine tract binding protein 1
+1555337_a_at	2.17E-37	7.35E-40	19.1	80.2	1.676	ZNF317	zinc finger protein 317
+212249_at	2.29E-37	7.80E-40	19.1	80.1	2.614	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1
+203388_at	2.33E-37	7.96E-40	19.1	80.1	1.467	ARRB2	arrestin beta 2
+231230_at	2.35E-37	8.07E-40	-19.1	80.1	-2.21	KCNK10	potassium two pore domain channel subfamily K member 10
+239923_at	2.37E-37	8.19E-40	-19.1	80.1	-2.164		
+1562236_at	2.42E-37	8.39E-40	-19.1	80.1	-0.912	KAT6B	lysine acetyltransferase 6B
+237264_at	3.09E-37	1.08E-39	19	79.8	1.324		
+221762_s_at	3.14E-37	1.10E-39	19	79.8	1.361	PCIF1	PDX1 C-terminal inhibiting factor 1
+239636_at	3.32E-37	1.17E-39	-19	79.7	-1.153	MCF2L	MCF.2 cell line derived transforming sequence like
+200796_s_at	3.34E-37	1.18E-39	19	79.7	3.282	MCL1	BCL2 family apoptosis regulator
+234562_x_at	3.48E-37	1.24E-39	-19	79.7	-2.329		
+203239_s_at	4.05E-37	1.45E-39	19	79.5	1.782	CNOT3	CCR4-NOT transcription complex subunit 3
+242144_at	4.08E-37	1.47E-39	19	79.5	1.963		
+201040_at	4.20E-37	1.52E-39	18.9	79.5	1.652	GNAI2	G protein subunit alpha i2
+222641_s_at	4.29E-37	1.56E-39	18.9	79.5	1.666	FAM222B	family with sequence similarity 222 member B
+236327_at	4.66E-37	1.71E-39	18.9	79.4	2.227	CEPT1	choline/ethanolamine phosphotransferase 1
+221021_s_at	4.80E-37	1.76E-39	-18.9	79.3	-1.533	CTNNBL1	catenin beta like 1
+242485_at	5.61E-37	2.07E-39	18.9	79.2	1.438		
+201050_at	5.64E-37	2.09E-39	18.9	79.2	2.139	PLD3	phospholipase D family member 3
+236372_at	6.21E-37	2.32E-39	18.9	79.1	1.259	PANX1	pannexin 1
+230609_at	6.32E-37	2.37E-39	18.9	79	3.538	CLINT1	clathrin interactor 1
+242472_x_at	6.61E-37	2.49E-39	-18.9	79	-0.921	FNBP4	formin binding protein 4
+223844_at	6.67E-37	2.52E-39	-18.8	79	-1.692	ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif 13
+227729_at	6.89E-37	2.62E-39	-18.8	78.9	-2.112		
+231291_at	7.67E-37	2.93E-39	-18.8	78.8	-1.711	GIPR	gastric inhibitory polypeptide receptor
+238621_at	8.11E-37	3.12E-39	-18.8	78.8	-1.647	FMN1	formin 1
+AFFX-HSAC07/X00351_5_at	8.36E-37	3.23E-39	18.8	78.7	1.784	ACTB	actin beta
+216971_s_at	9.78E-37	3.79E-39	18.8	78.6	2.72	PLEC	plectin
+1562511_at	1.16E-36	4.53E-39	-18.7	78.4	-1.114	LYST	lysosomal trafficking regulator
+1555229_a_at	1.32E-36	5.16E-39	18.7	78.3	4.398	C1S	"complement component 1, s subcomponent"
+218555_at	1.56E-36	6.13E-39	18.7	78.1	1.442	ANAPC2	anaphase promoting complex subunit 2
+238174_at	1.73E-36	6.83E-39	-18.7	78	-1.421	FBXL17	F-box and leucine rich repeat protein 17
+216058_s_at	1.81E-36	7.19E-39	-18.6	77.9	-2.234	CYP2C19	cytochrome P450 family 2 subfamily C member 19
+207983_s_at	1.84E-36	7.34E-39	18.6	77.9	1.596	STAG2	stromal antigen 2
+242337_at	2.04E-36	8.16E-39	-18.6	77.8	-1.968		
+233786_at	2.54E-36	1.02E-38	-18.6	77.6	-2.512		
+235434_at	3.20E-36	1.29E-38	-18.5	77.4	-1.808	CCDC134	coiled-coil domain containing 134
+238573_at	3.29E-36	1.34E-38	-18.5	77.3	-1.622	OTUD7B	OTU deubiquitinase 7B
+223578_x_at	3.36E-36	1.37E-38	18.5	77.3	1.88	MALAT1	metastasis associated lung adenocarcinoma transcript 1 (non-protein coding)
+200964_at	3.49E-36	1.43E-38	18.5	77.3	1.518	UBA1	ubiquitin like modifier activating enzyme 1
+209254_at	3.59E-36	1.48E-38	18.5	77.2	1.439	KLHDC10	kelch domain containing 10
+242728_at	3.59E-36	1.48E-38	-18.5	77.2	-1.188		
+235795_at	3.61E-36	1.50E-38	-18.5	77.2	-3.343	PAX6	paired box 6
+242425_at	3.63E-36	1.51E-38	-18.5	77.2	-1.481		
+1554314_at	3.76E-36	1.57E-38	-18.5	77.2	-2.36	C6orf141	chromosome 6 open reading frame 141
+233527_at	3.98E-36	1.67E-38	-18.5	77.1	-2.055	LOC101929340	uncharacterized LOC101929340
+1556678_a_at	5.17E-36	2.19E-38	-18.4	76.8	-1.542		
+221696_s_at	5.20E-36	2.21E-38	-18.4	76.8	-2.735	STYK1	serine/threonine/tyrosine kinase 1
+215936_s_at	5.38E-36	2.29E-38	18.4	76.8	1.813	KIAA1033	KIAA1033
+212332_at	5.63E-36	2.41E-38	18.4	76.7	1.584	RBL2	RB transcriptional corepressor like 2
+1556551_s_at	5.73E-36	2.46E-38	18.4	76.7	1.832	SLC39A6	solute carrier family 39 member 6
+220524_at	6.37E-36	2.75E-38	-18.4	76.6	-1.74	EPB41L4B	erythrocyte membrane protein band 4.1 like 4B
+200646_s_at	6.44E-36	2.79E-38	18.4	76.6	1.787	NUCB1	nucleobindin 1
+213548_s_at	6.50E-36	2.83E-38	18.4	76.6	2.218	CDV3	CDV3 homolog
+233063_s_at	7.06E-36	3.08E-38	-18.4	76.5	-2.208	GMDS-AS1	GMDS antisense RNA 1 (head to head)
+224974_at	7.52E-36	3.30E-38	-18.4	76.4	-1.601	SUDS3	"SDS3 homolog, SIN3A corepressor complex component"
+240107_at	7.92E-36	3.49E-38	-18.3	76.4	-1.304		
+226023_at	7.94E-36	3.53E-38	-18.3	76.4	-1.339	MAP2K7	mitogen-activated protein kinase kinase 7
+239478_x_at	7.94E-36	3.53E-38	-18.3	76.4	-1.023	GPATCH2L	G-patch domain containing 2 like
+213977_s_at	8.05E-36	3.59E-38	18.3	76.3	1.426	CIZ1	CDKN1A interacting zinc finger protein 1
+230786_at	8.42E-36	3.77E-38	-18.3	76.3	-1.421	ZCCHC8	zinc finger CCHC-type containing 8
+229115_at	8.79E-36	3.95E-38	18.3	76.2	1.626	DYNC1H1	dynein cytoplasmic 1 heavy chain 1
+216834_at	8.80E-36	3.98E-38	18.3	76.2	3.587	RGS1	regulator of G-protein signaling 1
+220391_at	8.87E-36	4.02E-38	-18.3	76.2	-1.263	ZBTB3	zinc finger and BTB domain containing 3
+200722_s_at	8.88E-36	4.04E-38	18.3	76.2	1.528	CAPRIN1	cell cycle associated protein 1
+211973_at	1.14E-35	5.22E-38	18.3	76	1.864	NUDT3	nudix hydrolase 3
