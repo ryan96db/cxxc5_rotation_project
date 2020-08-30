@@ -1,0 +1,23 @@
+AFFYMETRIX_3PRIME_IVT_ID	Name	Species
+229177_at	chromosome 16 open reading frame 89(C16orf89)	Homo sapiens
+228802_at	RNA binding protein with multiple splicing 2(RBPMS2)	Homo sapiens
+229019_at	zinc finger protein 385B(ZNF385B)	Homo sapiens
+224516_s_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+222996_s_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+233955_x_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+229288_at	EPH receptor A7(EPHA7)	Homo sapiens
+225915_at	calcium binding protein 39 like(CAB39L)	Homo sapiens
+231015_at	Kruppel like factor 15(KLF15)	Homo sapiens
+227198_at	AF4/FMR2 family member 3(AFF3)	Homo sapiens
+48031_r_at	fatty acid hydroxylase domain containing 2(FAXDC2)	Homo sapiens
+226303_at	phosphoglucomutase 5(PGM5)	Homo sapiens
+238075_at	checkpoint kinase 1(CHEK1)	Homo sapiens
+226192_at	androgen receptor(AR)	Homo sapiens
+226319_s_at	Aly/REF export factor(ALYREF)	Homo sapiens
+226320_at	Aly/REF export factor(ALYREF)	Homo sapiens
+225799_at	cytoskeleton regulator RNA(CYTOR)	Homo sapiens
+227419_x_at	placenta specific 9(PLAC9)	Homo sapiens
+224654_at	DExD-box helicase 21(DDX21)	Homo sapiens
+	238178_at		
+	227826_s_at		
+	238751_at		
