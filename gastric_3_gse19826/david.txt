@@ -1,0 +1,74 @@
+Gene2	Name	Species
+229661_at	spalt like transcription factor 4(SALL4)	Homo sapiens
+228703_at	prolyl 4-hydroxylase subunit alpha 3(P4HA3)	Homo sapiens
+229530_at	guanylate cyclase 1 soluble subunit alpha(GUCY1A3)	Homo sapiens
+225329_at	MAPK regulated corepressor interacting protein 1(MCRIP1)	Homo sapiens
+230271_at	one cut homeobox 2(ONECUT2)	Homo sapiens
+233446_at	one cut homeobox 2(ONECUT2)	Homo sapiens
+223727_at	potassium voltage-gated channel interacting protein 2(KCNIP2)	Homo sapiens
+226770_at	membrane associated guanylate kinase, WW and PDZ domain containing 3(MAGI3)	Homo sapiens
+226997_at	ADAM metallopeptidase with thrombospondin type 1 motif 12(ADAMTS12)	Homo sapiens
+239168_at	uncharacterized LOC400940(LOC400940)	Homo sapiens
+238455_at	plexin domain containing 2(PLXDC2)	Homo sapiens
+228642_at	HOXA transcript antisense RNA, myeloid-specific 1(HOTAIRM1)	Homo sapiens
+238019_at	perilipin 5(PLIN5)	Homo sapiens
+226374_at	coxsackie virus and adenovirus receptor(CXADR)	Homo sapiens
+224134_at	uncharacterized protein MGC10814(MGC10814)	Homo sapiens
+235638_at	Ras association domain family member 6(RASSF6)	Homo sapiens
+229254_at	major facilitator superfamily domain containing 4A(MFSD4A)	Homo sapiens
+238862_at	major facilitator superfamily domain containing 4A(MFSD4A)	Homo sapiens
+235766_x_at	RAB27A, member RAS oncogene family(RAB27A)	Homo sapiens
+229555_at	polypeptide N-acetylgalactosaminyltransferase 5(GALNT5)	Homo sapiens
+225355_at	neuralized E3 ubiquitin protein ligase 1B(NEURL1B)	Homo sapiens
+243386_at	castor zinc finger 1(CASZ1)	Homo sapiens
+229218_at	collagen type I alpha 2 chain(COL1A2)	Homo sapiens
+61734_at	reticulocalbin 3(RCN3)	Homo sapiens
+243309_at	chromosome 15 open reading frame 65(C15orf65)	Homo sapiens
+227614_at	hexokinase domain containing 1(HKDC1)	Homo sapiens
+226828_s_at	hes related family bHLH transcription factor with YRPW motif-like(HEYL)	Homo sapiens
+229554_at	lumican(LUM)	Homo sapiens
+226311_at	ADAM metallopeptidase with thrombospondin type 1 motif 2(ADAMTS2)	Homo sapiens
+229265_at	SKI proto-oncogene(SKI)	Homo sapiens
+230006_s_at	small VCP interacting protein(SVIP)	Homo sapiens
+229849_at	WAS/WASL interacting protein family member 3(WIPF3)	Homo sapiens
+242913_at	chloride intracellular channel 6(CLIC6)	Homo sapiens
+233955_x_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+222996_s_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+224516_s_at	CXXC finger protein 5(CXXC5)	Homo sapiens
+223058_at	family with sequence similarity 107 member B(FAM107B)	Homo sapiens
+223059_s_at	family with sequence similarity 107 member B(FAM107B)	Homo sapiens
+224896_s_at	tubulin tyrosine ligase(TTL)	Homo sapiens
+231766_s_at	collagen type XII alpha 1 chain(COL12A1)	Homo sapiens
+234370_at	V-set and immunoglobulin domain containing 1(VSIG1)	Homo sapiens
+226237_at	collagen type VIII alpha 1 chain(COL8A1)	Homo sapiens
+228231_at	microRNA 6836(MIR6836)	Homo sapiens
+227140_at	inhibin beta A subunit(INHBA)	Homo sapiens
+226306_at	chromosome 6 open reading frame 1(C6orf1)	Homo sapiens
+231786_at	homeobox A13(HOXA13)	Homo sapiens
+233082_at	zinc finger protein 630(ZNF630)	Homo sapiens
+236098_at	small integral membrane protein 6(SMIM6)	Homo sapiens
+233634_at	MARVEL domain containing 3(MARVELD3)	Homo sapiens
+229176_at	ANKH inorganic pyrophosphate transport regulator(ANKH)	Homo sapiens
+235050_at	solute carrier family 2 member 12(SLC2A12)	Homo sapiens
+228785_at	zinc finger protein 281(ZNF281)	Homo sapiens
+227491_at	ELOVL fatty acid elongase 6(ELOVL6)	Homo sapiens
+225571_at	leukemia inhibitory factor receptor alpha(LIFR)	Homo sapiens
+227771_at	leukemia inhibitory factor receptor alpha(LIFR)	Homo sapiens
+227801_at	tripartite motif containing 59(TRIM59)	Homo sapiens
+238663_x_at	glutamate ionotropic receptor AMPA type subunit 4(GRIA4)	Homo sapiens
+241137_at	diffuse panbronchiolitis critical region 1(DPCR1)	Homo sapiens
+231646_at	diffuse panbronchiolitis critical region 1(DPCR1)	Homo sapiens
+231014_at	tripartite motif containing 50(TRIM50)	Homo sapiens
+	242726_at		
+	243858_at		
+	226560_at		
+	243177_at		
+	233367_at		
+	238623_at		
+	229695_at		
+	229948_at		
+	237922_at		
+	234838_at		
+	231648_at		
+	238178_at		
+	231605_at		
