@@ -80,12 +80,9 @@ write.table(missing, file = "genes_with_missing_symbol.txt", sep = "\n")
 write.csv(cxxc5_pairs_with_gene_symbols, file = "CXXC5_Gene_Pairs.csv")
 
 
-plotCors(inputMat = top_250_genes_exp, design = design_mat,
-         compare = c("Normal", "Gastric"), geneA = "222996_s_at",
-         geneB = "225820_at", xlab = "CXXC5", ylab = "JANE1")
 
 plotCors(inputMat = top_250_genes_exp, design = design_mat,
          compare = c("Normal", "Gastric"), geneA = "222996_s_at",
-         geneB = "224863_at", xlab = "CXXC5", ylab = "GNAQ")
+         geneB = "225820_at", xlab = "CXXC5", ylab = "JADE1")
 
 
